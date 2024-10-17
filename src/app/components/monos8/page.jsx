@@ -2,6 +2,7 @@
 import Image from 'next/image'
 import { useEffect, useState } from 'react'
 
+
 export default function Monos8() {
   const [show, setShow] = useState(false)
 
